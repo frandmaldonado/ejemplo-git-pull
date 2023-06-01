@@ -1,1 +1,1 @@
-# ejemplo-git-pull
+# repositorio para practicar Git Pull
