@@ -1,1 +1,1 @@
-# repositorio para practicar Git Pull
+# repositorio para practicar Git Pull (Frand)
